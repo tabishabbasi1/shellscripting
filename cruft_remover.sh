@@ -17,7 +17,7 @@
 # Step 3: You then need to iterate over the array you created in the last step, and
 # present the user with an option to delete each file in the array.
 
-
+# tesaet
 read -p "which folder they want to remove from : " folder
 read -p "How many days it to old :" days
 
