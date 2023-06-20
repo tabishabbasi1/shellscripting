@@ -28,3 +28,5 @@ do
     rm -i "$file"
     echo "Deleted files are : "$file
 done
+
+# Git Directory
