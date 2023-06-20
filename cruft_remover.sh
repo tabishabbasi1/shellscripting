@@ -31,3 +31,4 @@ done
 
 echo "Dev Branch"
 # Git Directory
+echo "Master Branch"
